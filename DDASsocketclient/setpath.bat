@@ -1,0 +1,1 @@
+setx My_path "C:/Users/PCLP/Documents;C:/Users/PCLP/Downloads"
